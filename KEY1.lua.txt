@@ -1,10 +1,11 @@
 _G.Key = "Admin"
 
-if _G.Key == "KEYNEW-X2HUB-MAKILL" and "Admin" then 
+if _G.Key == "KEYNEW-EZFAN-GGTT-EZFAN" and "Admin" then 
 local HWID = {
 
     "7a61bacb-db12-4671-93f5-2d3b470c223b";
     "32dd52bb-0359-40f9-942f-950a98dc09d5"
+    "943bd1ad-deb2-46ef-aa71-3163b837c43b"
 
  }
 
